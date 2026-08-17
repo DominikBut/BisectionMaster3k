@@ -10,7 +10,7 @@ Projekt został wykonany w ramach studiów i łączy implementację algorytmu nu
 ## Podgląd aplikacji
 
 <p align="center">
-  <img src="docs/images/main-window.jpg" alt="Główne okno aplikacji" width="850">
+  <img src="docs/media/main-window.jpg" alt="Główne okno aplikacji" width="850">
 </p>
 
 ---
@@ -54,7 +54,7 @@ Aplikacja udostępnia graficzny interfejs pozwalający skonfigurować obliczenia
 W zakładce **Dane** użytkownik może określić funkcję, dla której ma zostać znalezione miejsce zerowe, oraz parametry wykorzystywane podczas obliczeń.
 
 <p align="center">
-  <img src="docs/images/main-window.jpg" alt="Ekran główny aplikacji" width="800">
+  <img src="docs/media/main-window.jpg" alt="Ekran główny aplikacji" width="800">
 </p>
 
 ---
@@ -66,7 +66,7 @@ Po wykonaniu obliczeń aplikacja prezentuje wyznaczone przybliżenie miejsca zer
 Dzięki temu można prześledzić, w jaki sposób kolejne iteracje powodują zmniejszanie przedziału poszukiwania.
 
 <p align="center">
-  <img src="docs/images/results.jpg" alt="Wynik obliczeń" width="800">
+  <img src="docs/media/results.jpg" alt="Wynik obliczeń" width="800">
 </p>
 
 ---
@@ -78,7 +78,7 @@ Aplikacja umożliwia również graficzną prezentację analizowanej funkcji w za
 Wykres pozwala łatwiej zobrazować położenie miejsca zerowego oraz sposób, w jaki metoda bisekcji zawęża obszar poszukiwania rozwiązania.
 
 <p align="center">
-  <img src="docs/images/function-graph.jpg" alt="Wykres funkcji" width="800">
+  <img src="docs/media/function-graph.jpg" alt="Wykres funkcji" width="800">
 </p>
 
 ---
